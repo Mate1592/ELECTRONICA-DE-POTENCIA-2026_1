@@ -28,7 +28,16 @@
 - **Almacenamiento**: 100MB disponibles
 
 ---
+## 📱 Interfaz Principal
 
+![Motor DC - Electrónica de Potencia](gradle/motor_dc_interface.png)
+
+**Vista de la aplicación Power Driver mostrando:**
+- Monitoreo de RPM en tiempo real
+- Control de ángulo y disparo
+- Parámetros de voltaje y corriente
+- Botones de control (Enviar, Stop, BT)
+- Gráficos de operación
 ## 🛠️ Tecnologías Utilizadas
 
 - **Android Studio** - IDE principal de desarrollo
